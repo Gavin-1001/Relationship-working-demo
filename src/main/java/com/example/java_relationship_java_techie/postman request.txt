@@ -1,0 +1,24 @@
+http://localhost:8080/placeOrder
+
+{
+    "customer": {
+        "name": "Gavin",
+        "email":"gavin@gmail.com",
+        "gender": "male",
+        "products" : [
+            {
+
+            "productName": "Toaster Phone",
+            "price": 10000,
+            "quantity": 1
+            },
+            {
+
+            "productName": "bathtub ",
+            "price": 2000,
+            "quantity": 14
+            }
+        ]
+    }
+
+}
